@@ -1,4 +1,4 @@
-package OOP2.Homework1;
+package OOP2.LoginHomework;
 
 import javax.swing.*;
 import java.awt.*;
